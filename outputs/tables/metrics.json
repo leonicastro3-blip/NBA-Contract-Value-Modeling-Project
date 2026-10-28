@@ -1,0 +1,46 @@
+{
+  "seasons_backtested": [
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24",
+    "2024-25",
+    "2025-26"
+  ],
+  "salary_match_rate": 0.9369,
+  "market": {
+    "ridge_all_features": {
+      "mae_pct_cap": 0.0373,
+      "mae_dollars": 4519788.8712,
+      "r2": 0.7414,
+      "spearman": 0.8262
+    },
+    "ridge_simple": {
+      "mae_pct_cap": 0.0517,
+      "mae_dollars": 6348475.5154,
+      "r2": 0.5419,
+      "spearman": 0.7493
+    },
+    "xgboost": {
+      "mae_pct_cap": 0.0329,
+      "mae_dollars": 3991548.9672,
+      "r2": 0.7913,
+      "spearman": 0.8552
+    }
+  },
+  "forecast": {
+    "mae_xgb_p50": 1.4564,
+    "mae_marcel": 1.5655,
+    "mae_naive": 1.6947,
+    "coverage_p10_p90": 0.7954,
+    "below_p10": 0.1079,
+    "above_p90": 0.0967,
+    "pinball_mean": 0.4686
+  },
+  "forecast_beats_marcel_every_season": true,
+  "usd_per_war_current": 4509267.0,
+  "team_surplus_win_corr": 0.83,
+  "team_war_win_corr": 0.956
+}

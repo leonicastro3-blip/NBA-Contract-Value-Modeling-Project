@@ -1,0 +1,9 @@
+archetype,n,mean_gap_pct_cap,ci_low,ci_high,median_market_value,median_production_value,example_players_2026
+Primary creator,254,0.04081661607574142,0.024379227010994712,0.057120331104949004,0.25857276,0.26741439995407135,"Kevin Durant, Tyrese Maxey, Jamal Murray, Julius Randle"
+Rim-running big,181,0.01615243543451509,0.007426859945635781,0.024638113364836376,0.077541955,0.09563145841998635,"Rudy Gobert, Deandre Ayton, Neemias Queta, Moussa Diabaté"
+Point-of-attack defender,187,0.002118173286411627,-0.004988017572920826,0.009207104320683798,0.05710335,0.05681969126909029,"Kris Dunn, OG Anunoby, Bruce Brown, Marcus Smart"
+Secondary playmaker,147,-0.01558005863251099,-0.023532936017746524,-0.007661450881035442,0.06674001,0.04832896979053043,"Ryan Rollins, Davion Mitchell, Josh Hart, Draymond Green"
+Spot-up shooter,428,-0.01615057153247409,-0.02067059166227657,-0.011821727871516752,0.057246007,0.031347526833410716,"Toumani Camara, Mikal Bridges, Donte DiVincenzo, A.J. Green"
+Two-way forward,292,-0.016368605870462346,-0.022983999006796416,-0.009876964878690194,0.09406324,0.07835979560602238,"Miles Bridges, Bam Adebayo, Jaden McDaniels, Onyeka Okongwu"
+Interior hub big,148,-0.0164057327627214,-0.027518462270627063,-0.005283716609929203,0.10606789,0.07668246303098196,"Scottie Barnes, Alperen Şengün, Karl-Anthony Towns, Evan Mobley"
+Scoring guard,314,-0.045919283798153715,-0.052859968913395686,-0.038963909381658744,0.10995248,0.04351793175905541,"Desmond Bane, Derrick White, Brandon Ingram, Nickeil Alexander-Walker"
